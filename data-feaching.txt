@@ -1,0 +1,2 @@
+NextJS Data Fetching with App Router
+https://www.youtube.com/watch?v=Bx7GUurz5Zc
